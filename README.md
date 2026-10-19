@@ -2,7 +2,7 @@
 
 A plugin for MuseScore Studio 4.6 that lets you edit a score by talking to an AI. The model (DeepSeek, or any OpenAI-compatible API) reads the score and makes changes through a small set of tools; every edit is one undoable transaction. Recurring tasks become **skills** in the open [Agent Skills](https://agentskills.io) format: one-click buttons, `/name` commands, shareable as a single file.
 
-<!-- demo GIF goes here: docs/demo.gif -->
+![demo](docs/demo.gif)
 
 ## Features
 
