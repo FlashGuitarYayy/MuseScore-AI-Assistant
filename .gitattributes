@@ -1,0 +1,4 @@
+# 仓库里统一 LF；QML/JS/JSON 对行尾不敏感，这样 Windows 和 mac/Linux 的 diff 不会被行尾污染
+* text=auto eol=lf
+*.mscz binary
+*.png binary

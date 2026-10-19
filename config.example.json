@@ -1,0 +1,14 @@
+{
+  "apiKey": "",
+  "baseUrl": "https://api.deepseek.com",
+  "model": "deepseek-flash",
+  "reasoningEffort": "none",
+  "maxIterations": 12,
+  "maxTokens": 4096,
+  "compactChars": 80000,
+  "keepLogs": true,
+  "githubToken": "",
+  "githubSearchRepo": "musescore/MuseScore",
+  "bridge": false,
+  "lang": "auto"
+}

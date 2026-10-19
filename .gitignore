@@ -1,0 +1,13 @@
+# 个人设置：里面有 API key 和 GitHub token，绝不能提交。模板见 config.example.json
+config.json
+
+# 对话记录和复盘：含个人指令和谱面片段
+logs/*
+!logs/README.md
+
+# 本地桥的信箱文件
+bridge/*.json
+bridge/*.tmp
+
+__pycache__/
+*.pyc
